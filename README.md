@@ -14,3 +14,34 @@ Problem Statement
 
 Inventory management is a critical process for businesses to effectively track and control their stock of goods and materials. In this project, learners should aim to understand how inventory can be managed efficiently based on the provided dataset. By analyzing the data, they can gain insights into factors such as sales trends, popular products, customer preferences, and order fulfillment. The company conducting this project aims to improve their inventory management practices, enhance customer satisfaction, optimize sales strategies, and ultimately increase profitability. Through this project, the company seeks to obtain actionable insights that will help them make informed decisions and drive business growth.
 
+Task -Connecting data source and cleaning data
+
+EDA
+
+Statistics
+
+I must connect Tableau to my data source before i can start using it to analyze my data. Prior to doing this, it is crucial to carry out data cleaning, which entails finding and correcting mistakes or discrepancies in our data set. This might entail removing any inaccurate data as well as correcting any incomplete, duplicate, or incorrect data. After our data has been cleaned, i can move on to creating views and performing our analysis.
+
+In this task, I required to:
+
+
+
+Import data in Tableau
+Combine different data using relationships 
+Format the data and column names (if required)
+Check for missing values
+Make sure the data is ready for visualization
+
+Database Design: Based on the provided datasets, design a relational database schema that can be used to store and query the relevant data. Clearly define the tables, columns, and relationships between them.
+Data Visualization Requirements: Use appropriate charts and graphs to answer the following questions:
+Which product has the highest quantity sold?
+Which category earns the most profit?
+What is the shipment status of each category?
+Which month has the highest quantity sold?
+Which category has the lowest stock (quantity ordered is more than total item quantity)?
+Use Map charts to answer the following questions:
+Which are the top 3 warehouses by quantity ordered?
+Which are the top 5 categories by profits?
+
+Create a new dashboard that includes all the relevant charts and visualizations. The dashboard should be easy to use and navigate, with clear labels and titles for each chart. It should provide a high-level overview of the company's sales and inventory data.
+
